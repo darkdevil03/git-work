@@ -1,0 +1,11 @@
+remote repo
+local repo
+staging area
+working area
+
+
+Git:
+
+git init (git intilization)
+
+git status
